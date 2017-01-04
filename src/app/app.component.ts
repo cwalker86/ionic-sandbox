@@ -1,3 +1,5 @@
+// This file is the starting point for the app.
+
 import { Component } from '@angular/core';
 import { Platform } from 'ionic-angular';
 import { StatusBar, Splashscreen } from 'ionic-native';
